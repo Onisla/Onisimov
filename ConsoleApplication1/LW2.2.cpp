@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+
 using namespace std;
 
 int main()
@@ -41,10 +42,10 @@ int main()
     cout << "Назва компютера:\t\t\t" << compName << endl;
     cout << "Тип ОС:\t\t\t\t\t" << OS << endl;
     cout << "ID девайсу:\t\t\t\t" << deviceID << endl;
-    cout << "Вік компютера:\t\t\t\t" << copmAge << endl;
+    cout << "Вiк компютера:\t\t\t\t" << copmAge << endl;
     cout << "Працює:\t\t\t\t\t" << ((working) ? "Так" : "Ні") << endl;
     cout << "Материнська плата:\t\t\t" << motherboardName << endl;
-    cout << "Відеокарта:\t\t\t\t" << GPU << endl;
+    cout << "Вiдеокарта:\t\t\t\t" << GPU << endl;
     cout << "Процесор:\t\t\t\t" << CPU << endl;
     cout << "ОЗУ:\t\t\t\t\t" << RAM << endl;
     cout << "SSD:\t\t\t\t\t" << SSD << endl;
