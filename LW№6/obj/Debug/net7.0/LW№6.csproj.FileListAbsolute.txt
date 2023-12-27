@@ -1,0 +1,5 @@
+D:\Onisimov\LW№6\obj\Debug\net7.0\LW№6.csproj.AssemblyReference.cache
+D:\Onisimov\LW№6\obj\Debug\net7.0\LW№6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onisimov\LW№6\obj\Debug\net7.0\LW№6.AssemblyInfoInputs.cache
+D:\Onisimov\LW№6\obj\Debug\net7.0\LW№6.AssemblyInfo.cs
+D:\Onisimov\LW№6\obj\Debug\net7.0\LW№6.csproj.CoreCompileInputs.cache

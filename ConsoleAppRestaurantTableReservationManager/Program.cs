@@ -24,6 +24,11 @@ namespace Main
     {
         private List<Restaurant> restaurants;
 
+        public List<Restaurant> Restaurants
+        {
+            get { return restaurants; }
+        }
+
         public ReservationManager()
         {
             restaurants = new List<Restaurant>();
